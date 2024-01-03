@@ -19,7 +19,7 @@ https://moodledev.io/general/development/policies/codingstyle
 - `lang/en/block_usercount.php` ✅
 - `version.php` ❌
 
-Door het ontbreken van `version.php` is het niet mogelijk de plug-in te installeren.
+Door het ontbreken van `version.php` is het niet mogelijk de plug-in te installeren.\
 Het ontbreken van `db/access.php` zorgt voor foutmeldingen.\
 Een block dient de capabilities `addinstance` en `myaddinstance` te definiëren in dit bestand.
 
