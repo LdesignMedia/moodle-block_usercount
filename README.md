@@ -20,7 +20,7 @@ https://moodledev.io/general/development/policies/codingstyle
 - `lang/en/block_usercount.php` ✅
 - `version.php` ✅
 
-Het ontbreken van `db/access.php` zorgt er voor foutmeldingen.\
+Het ontbreken van `db/access.php` zorgt voor foutmeldingen.\
 Een block dient de capabilities `addinstance` en `myaddinstance` te definiëren in dit bestand.
 
 ## Welke nuttige bestanden zijn extra aanwezig
