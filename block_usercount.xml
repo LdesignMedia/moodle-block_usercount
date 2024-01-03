@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blockml xmlns="http://docs.moodle.org/en/blockml/" version="2">
+    <block>
+        <type>usercount</type>
+        <name>Actieve gebruikers</name>
+        <title>Actieve gebruikers</title>
+        <description>Toont het totale aantal actieve gebruikers in de Moodle-omgeving.</description>
+        <version>1.0</version>
+        <requires>
+            <blockdisplay>2018052300</blockdisplay>
+        </requires>
+    </block>
+</blockml>
